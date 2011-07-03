@@ -7,7 +7,7 @@ gem 'rails', '3.0.9'
 
 gem 'sqlite3'
 gem 'heroku'
-gem 'taps'
+#gem 'taps'
 
 # Use unicorn as the web server
 # gem 'unicorn'
